@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985070638119",
+    "firebase_url": "https://solo-radar.firebaseio.com",
+    "project_id": "solo-radar",
+    "storage_bucket": "solo-radar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985070638119:android:47a62e62afa7122681ea02",
+        "android_client_info": {
+          "package_name": "com.example.android.soloradar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985070638119-ka7vdnhagmsa0l244f6g876s9369a394.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.soloradar",
+            "certificate_hash": "4923ffaed5c54726b57f5c7482d7e2056faf0ea3"
+          }
+        },
+        {
+          "client_id": "985070638119-b68j543cg2mb8lruecgs7j948bs1aj51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiqnmgv7de7Hnh8PfwDkK541LQi00YODs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985070638119-b68j543cg2mb8lruecgs7j948bs1aj51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
